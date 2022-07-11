@@ -1,0 +1,7 @@
+{
+  "init": [
+    {"cmd":"print", "value": "#var1"},
+    {"cmd":"print", "value": "#var2"},
+    {"cmd":"print", "value": "#var3"}
+  ]
+}
